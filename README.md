@@ -2,9 +2,8 @@
 
 A responsive weather application built with React and OpenWeatherMap API that displays current weather conditions for any city.
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-blue?style=for-the-badge&logo=react)](https://your-live-link-here.com)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Click_Here-blue?style=for-the-badge&logo=react)](https://verdant-daffodil-491fc3.netlify.app/)
 
-![Weather App Preview](https://via.placeholder.com/600x400?text=Weather+App+Preview) <!-- Replace with actual screenshot -->
 
 ## Features
 
