@@ -15,7 +15,7 @@ function App() {
       try {
         setLoading(true);
         const response = await axios.get(
-          `https://api.openweathermap.org/data/2.5/weather?q=${encodeURIComponent(city)}&appid=3dc2d934457a47636eeb593b4018fd5b&units=metric`
+          `https://api.openweathermap.org/data/2.5/weather?q=${encodeURIComponent(city)}&appid==your api key
         );
         
         setWeatherData(response.data);
